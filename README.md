@@ -9,6 +9,9 @@ This project analyzes NASA meteorite landing data and creates a geographic visua
 - **Delaunay triangulation**: Spatial connectivity between neighboring impact sites
 - **World map overlay**: Geographic context using Cartopy
 
+- <img width="1487" height="820" alt="image" src="https://github.com/user-attachments/assets/8cedc55c-abdf-4e03-ae7b-49342f337eac" />
+
+
 ## Requirements
 
 - Python 3.x
